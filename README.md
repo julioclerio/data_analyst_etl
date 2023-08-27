@@ -1,4 +1,4 @@
-# -data_analyst_etl
+# data_analyst_etl
 ETL Process for Top Spotify Tracks Dataset: Data Cleaning and Insights
 
 In the context of the Top Spotify Tracks dataset, I performed an Extract, Transform, Load (ETL) process to extract valuable insights from the raw data. While no graphical visualizations were generated, the emphasis was on data treatment and cleaning, leading to meaningful findings. Here's an overview of the process:
